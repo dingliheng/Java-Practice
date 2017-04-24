@@ -1,4 +1,4 @@
-package day1;
+package JDBC.day1;
 
 public class GetConnection {
     public static void main(String[] strings) {
